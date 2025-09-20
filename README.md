@@ -9,9 +9,7 @@
 
 💡 My journey blends **IT foundations, health-focused data science, and applied AI/ML**, preparing me for impactful roles at the intersection of **technology, health, and data**.  
 
----
-
-## 🚀 Tech Stack  
+--- 
 
 ## 🚀 Tech Stack  
 
