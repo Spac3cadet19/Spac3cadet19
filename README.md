@@ -59,6 +59,7 @@
 📫 omeniedna19@gmail.com  
 💼 https://www.linkedin.com/in/edna-omeni-172892276/ 
 📝 https://hashnode.com/@Omeniedna19 
+🌐 https://ednaomeni.vercel.app/
 
 ---
 
